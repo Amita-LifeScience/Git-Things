@@ -15,3 +15,12 @@ readme.md preferred over readme since the former allows formatting.
 - Check before committing in preview.
 - The text should appear in formatted form i.e. Heading with numbered instructions
 - Unformatted text will appear like this: file name in square brackets following by file name with extension such as .docx in paranthesis, commit. -when the uploaded file name has space, that fill space with %20. -in general do not have space in uploaded file name.
+## Uploading file to README.md 
+- Save the file to be uploaded with no spaces, for example: PDB_Database is correct instead of PDB Database
+- open the repository in git hub
+- select the folder in which the file is to be uploaded
+- Click Add file
+- Click Upload file
+- Drag and drop the file into the folder
+- Wait for the file to be uploaded
+- Scroll down to commit change

@@ -24,3 +24,9 @@ readme.md preferred over readme since the former allows formatting.
 - Drag and drop the file into the folder
 - Wait for the file to be uploaded
 - Scroll down to commit change
+## Saving files as .md
+- Open the repository
+- Open the file to be edited
+- Click the edit penicl
+- On top, where the file name is add .md extension
+- Commit change
